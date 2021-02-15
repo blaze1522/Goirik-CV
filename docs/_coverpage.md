@@ -1,4 +1,4 @@
-# Hey There!
+# Hey There! 👋
 
 > Nice to meet you!
 
