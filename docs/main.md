@@ -7,7 +7,7 @@ A curious and passionate undergraduate student interested in studying Applied Ma
 ## Interests
 
 * Probability Theory
-* Machine Learning (Theoritical)
+* Machine Learning (Theoretical)
 * Game Theory
 * Algorithms
 * Mathematical Finance
@@ -70,7 +70,7 @@ A curious and passionate undergraduate student interested in studying Applied Ma
 |  |  |
 | ----: | ----- |
 | **Programming** | Python, R, MATLAB, C++, C, SQL |
-| **Typesetting** | Latex, Markdown, HTML, CSS (with Sass) |
+| **Typesetting** | LaTeX, Markdown, HTML, CSS (with Sass) |
 | **Tools** | Git, GitHub, VScode, MS‐Excel, Linux and commandline |
 | **Soft Skills** | Resourceful, Adaptable, Disciplined |
 | **Languages** | English, Hindi, Bengali (fluent in all three) |
@@ -118,7 +118,7 @@ This was the first TEDx event organised by any IISER and we were the founding me
 *Mimamsa*
 <div class="subhead">November 2019 - February 2020</div>
 
-Mimansa is the Largest All India Undergraduate Quiz held Annually by IISER Pune
+Mimamsa is the Largest All India Undergraduate Quiz held Annually by IISER Pune
 
 </div>
 
