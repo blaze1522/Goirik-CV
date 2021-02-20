@@ -1,4 +1,6 @@
 <link rel="stylesheet" type="text/css" media="all" href="style.css" />
+<!-- <link rel="stylesheet" type="text/css" media="all" href="vue.css" /> -->
+<!-- <link rel="stylesheet" type="text/css" media="all" href="/home/goirik/.config/Typora/themes/next.css" /> -->
 
 ## Objective
 
