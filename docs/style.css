@@ -24,3 +24,9 @@ td,tr,th {
 	color:grey; 
 	font-size:0.9em !important;
 }
+
+td a {
+	color: #33455e !important;
+	text-decoration: none !important;
+	margin: 50;
+}
