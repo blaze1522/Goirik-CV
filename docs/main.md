@@ -197,4 +197,10 @@ Mimamsa is the Largest All India Undergraduate Quiz held Annually by IISER Pune
 *IISER Pune Cubing Open*
 <div class="subhead">March 2019</div>
 
+---
+
+<br>
+
+Made by [Me](https://github.com/blaze1522/). Published with [Docsify](https://docsify.js.org/#/).
+
 </div>
